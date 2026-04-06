@@ -15,58 +15,49 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Software Engineering Strategic Consultant</h4>
+                <h5>IBM</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>Jun 2025–NOW</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Working on a COE integration project for a leading investment bank in Dubai, incorporating Azure Cloud (Logic Apps, Service Bus, AKS). Automated End-of-Day (EOD) batch operations for a major Tier-1 bank in Pakistan via a Java orchestration layer. Additionally, developed scalable microservices for the Travel and Tourism hub of a leading multi-national lifestyle app operating across 7 countries in the Middle East.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>Software Engineer</h4>
+                <h5>4DMagic Software</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2023–25</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Developed a Media Booking Online Tool (MBOT). Implemented REST/SOAP APIs and 4DCast for real-time media synchronization. Contributed to microservices-based system architecture using .NET and Angular.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Software Developer Intern</h4>
+                <h5>4DMagic Software</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Learned and applied .NET and Angular in real-world business projects. Assisted in microservices development, client-side maintenance, and Azure deployments.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>Software Developer Intern</h4>
+                <h5>Civil Aviation Authority</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Worked on Bay Allocation Automation project. Implemented features using PHP Laravel and React.
             </p>
           </div>
         </div>

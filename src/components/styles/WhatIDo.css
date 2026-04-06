@@ -63,7 +63,7 @@
   padding: 10px 50px;
 }
 .what-content h3 {
-  font-size: 35px;
+  font-size: 23px;
   letter-spacing: 1px;
   margin: 0;
 }
@@ -207,6 +207,12 @@
 .what-content-in {
   height: 100%;
   overflow: hidden;
+  overflow-y: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.what-content-in::-webkit-scrollbar {
+  display: none;
 }
 .what-content-in h5 {
   font-weight: 300;
@@ -252,7 +258,7 @@
     height: 400px;
   }
   .what-content h3 {
-    font-size: 28px;
+    font-size: 20px;
   }
   .what-content {
     padding: 30px;
@@ -371,7 +377,7 @@
     padding: 5px 30px;
   }
   .what-content h3 {
-    font-size: 25px;
+    font-size: 18px;
   }
 }
 @media only screen and (max-width: 550px) {

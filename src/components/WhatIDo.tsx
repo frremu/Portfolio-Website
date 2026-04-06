@@ -87,20 +87,22 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>AUTOMATION & BACKEND SYSTEMS</h3>
+              <h4>Building Reliable Workflow Engines</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                I design and develop backend systems that automate complex business workflows—
+                from banking operations to enterprise platforms. I take ownership end-to-end,
+                from system design and architecture to implementation and delivery, ensuring
+                reliability, scalability, and minimal manual intervention.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">Java & .NET</div>
+                <div className="what-tags">Workflow orchestration</div>
+                <div className="what-tags">Batch processing</div>
+                <div className="what-tags">System design</div>
+                <div className="what-tags">Logging & monitoring</div>
+                <div className="what-tags">Error handling</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +126,22 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>BUILD & SCALE</h3>
+              <h4>End-to-End Product Development</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                I build scalable applications end-to-end—covering frontend, backend, and system
+                architecture. From designing APIs and data models to crafting user interfaces,
+                I deliver complete, production-ready solutions with clean structure and seamless
+                integrations.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
+                <div className="what-tags">Microservices</div>
+                <div className="what-tags">REST & SOAP APIs</div>
+                <div className="what-tags">Spring Boot & .NET</div>
                 <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">MongoDB & MySQL</div>
+                <div className="what-tags">React / Angular / Next.js</div>
               </div>
               <div className="what-arrow"></div>
             </div>
