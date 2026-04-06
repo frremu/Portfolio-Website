@@ -8,7 +8,7 @@ const projects = [
     title: "OneClicks",
     category: "Advertising Management Tool",
     tools: "Next.js, .NET, MongoDB, Meta Marketing API, Google Ads API",
-    image: "/images/callhq.png",
+    image: "/images/Gemini_Generated_Image_kbi2prkbi2prkbi2.png",
     link: "#",
   },
   {

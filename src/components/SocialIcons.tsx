@@ -80,7 +80,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="#"
+        href="/Umer_Farooq_Resume.pdf"
         target="_blank"
         rel="noreferrer"
       >
